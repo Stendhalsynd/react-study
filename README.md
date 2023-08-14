@@ -21,6 +21,7 @@
 | 블로그 | 주제 | 작성자 |
 | --- | --- | --- |
 | [State 관련 개념](https://velog.io/@run_lettuce0321/React-State-%EA%B4%80%EB%A0%A8-%EA%B0%9C%EB%85%90) | `state`, `control` | 주상후 |
+|[Rendering List, 조건부 content](https://velog.io/@run_lettuce0321/React-Rendering-List-%EC%A1%B0%EA%B1%B4%EB%B6%80-content)|`map`| 주상후 |
 | [React 18의 변경점](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-React-18-%EC%9D%B4-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%ED%96%A5%EC%83%81%EC%8B%9C%ED%82%A8-%EB%B0%A9%EB%B2%95) | `React 18`, `CSR`, `SSR` | 홍지훈 |
 | [버튼 & state 변경](https://jonghyeon6084.tistory.com/25) | `useState`, `component` | 김종현 |
 | [컴포넌트 라이프 사이클](https://velog.io/@ckdgusjang/REACT-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0) | `life cycle` | 장창현 |
