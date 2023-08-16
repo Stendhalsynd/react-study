@@ -39,6 +39,12 @@
 | [기초 문법](https://jonghyeon6084.tistory.com/27) | `map` | 김종현 |
 | [Class Component & Function Component](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) | `class`, `class component`, `function component` | 홍지훈 |
 
+## ✒️ 3주차
+
+| 블로그 | 주제 | 작성자 |
+| --- | --- | --- |
+| [React 연습프로젝트-1]https://velog.io/@run_lettuce0321/React-%EC%97%B0%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EB%AA%85 | `project` | 주상후 |
+
 # Members
 
 | <a href="https://github.com/learnttuce0321"><img src="https://velog.velcdn.com/images/qmflf556/post/10f3d9b1-4a38-4670-8661-991068b300e4/image.png" width="150px"/></a> | <a href="https://github.com/nebulaBdj"><img src="https://velog.velcdn.com/images/qmflf556/post/fd06a32a-ff86-4780-a72f-43c4afdea882/image.png" width="150px"/></a> | <a href="https://github.com/Kimjonghyeon6084"><img src="https://velog.velcdn.com/images/qmflf556/post/547e1f7b-015c-4685-a510-3a03311d11ce/image.png" width="150px"/></a> | <a href="https://github.com/changhyun-jang"><img src="https://velog.velcdn.com/images/qmflf556/post/03e5278a-a2c9-419e-bb7b-6cfb9399cbec/image.png" width="150px"/></a> | <a href="https://github.com/Stendhalsynd"><img src="https://velog.velcdn.com/images/qmflf556/post/19704a5b-0640-4675-b149-abb432c38cd2/image.png" width="150px"/></a> |
