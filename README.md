@@ -43,7 +43,7 @@
 
 | 블로그 | 주제 | 작성자 |
 | --- | --- | --- |
-| [React 연습프로젝트-1]https://velog.io/@run_lettuce0321/React-%EC%97%B0%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EB%AA%85 | `project` | 주상후 |
+| [React 연습프로젝트-1](https://velog.io/@run_lettuce0321/React-%EC%97%B0%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EB%AA%85) | `project` | 주상후 |
 
 # Members
 
