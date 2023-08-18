@@ -44,7 +44,10 @@
 | 블로그 | 주제 | 작성자 |
 | --- | --- | --- |
 | [React 연습프로젝트-1](https://velog.io/@run_lettuce0321/React-%EC%97%B0%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-1#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%A4%EB%AA%85) | `project` | 주상후 |
+| [React \|\| Part1 블로그 제작 및 기초 문법_04](https://jonghyeon6084.tistory.com/28) | `prop` | 김종현 |
+| [React 연습프로젝트-2](https://velog.io/@run_lettuce0321/React-%EC%97%B0%EC%8A%B5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2) | `project` | 주상후 |
 | [useEffect 원리 파헤치기 1](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8-useEffect-%EC%99%80-Strict-Mode) | `useEffect` | 홍지훈 |
+| [useEffect 원리 파헤치기 2](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-3%EC%A3%BC%EC%B0%A8-useEffect-2) | `closer` | 홍지훈 |
 
 # Members
 
