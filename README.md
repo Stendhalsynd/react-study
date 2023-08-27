@@ -37,7 +37,7 @@
 | 17 | [state 변경하는 법](https://pestudent.tistory.com/20) | `useState` | 황동준 |
 | 18 | [JS 기초 문법](https://jonghyeon6084.tistory.com/27) | `map` | 김종현 |
 | 19 | [기초 문법](https://jonghyeon6084.tistory.com/27) | `map` | 김종현 |
-| 20 | [Class Component & Function Component](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) | `class`, `class component`, `function component` | 홍지훈 |
+| 20 | [Class Component & Function Component](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8-%ED%81%B4%EB%9E%98%EC%8A%A4%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8) | `class`, `class component`, <br> `function component` | 홍지훈 |
 
 ## ✒️ 3주차
 
