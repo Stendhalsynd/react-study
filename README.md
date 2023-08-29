@@ -62,6 +62,10 @@
 | 30 | [react-hook-form](https://velog.io/@run_lettuce0321/React-react-hook-form) | `react-hook-form` | 주상후 |
 | 31 | [useReducer](https://velog.io/@run_lettuce0321/React-useReducer) | `useReducer` | 주상후 |
 | 32 | [global state - useContext](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-4%EC%A3%BC%EC%B0%A8-global-state-useContext) | `useContext` | 홍지훈 |
+
+## ✒️ 5주차 (옵션)
+| 33 | [useReducer 이해하기](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-5%EC%A3%BC%EC%B0%A8-global-state-useReducer) | `useReducer` | 홍지훈 |
+
 # Members
 
 | <a href="https://github.com/learnttuce0321"><img src="https://velog.velcdn.com/images/qmflf556/post/10f3d9b1-4a38-4670-8661-991068b300e4/image.png" width="150px"/></a> | <a href="https://github.com/nebulaBdj"><img src="https://velog.velcdn.com/images/qmflf556/post/fd06a32a-ff86-4780-a72f-43c4afdea882/image.png" width="150px"/></a> | <a href="https://github.com/Kimjonghyeon6084"><img src="https://velog.velcdn.com/images/qmflf556/post/547e1f7b-015c-4685-a510-3a03311d11ce/image.png" width="150px"/></a> | <a href="https://github.com/changhyun-jang"><img src="https://velog.velcdn.com/images/qmflf556/post/03e5278a-a2c9-419e-bb7b-6cfb9399cbec/image.png" width="150px"/></a> | <a href="https://github.com/Stendhalsynd"><img src="https://velog.velcdn.com/images/qmflf556/post/19704a5b-0640-4675-b149-abb432c38cd2/image.png" width="150px"/></a> |
