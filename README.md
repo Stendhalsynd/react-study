@@ -75,6 +75,7 @@
 | --- | --- | --- | --- |
 | 34 | [React - useEffect](https://velog.io/@run_lettuce0321/React-useEffect)| `useEffect` | 주상후 |
 | 35 | [useRef 란?](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-useRef-%EB%9E%80)| `useRef`, `forwardRef`, `ref` | 홍지훈 |
+| 36 | [redux 입문편](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-redux-%EC%9E%85%EB%AC%B8)| `redux`| 홍지훈 |
 
 # Members
 
