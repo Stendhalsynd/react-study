@@ -8,6 +8,8 @@
 - 2번 위반할 경우 멤버들에게 젤라또 사주기
 - 5주차는 프로젝트 기간이라 스터디 일시 중지
   - 개인적으로 학습한 경우 readme 에 추가하기
+- 6주차는 redux 학습후 redux 로 todo-app 만들기
+- 7주차는 recoil 학습후 recoil 로 todo-app 만들기 
 
 # ✏️ What We Learned ?
 
