@@ -80,7 +80,7 @@
 | 36 | [redux 입문편](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-redux-%EC%9E%85%EB%AC%B8)| `redux`| 홍지훈 |
 | 37 | [redux 용어 이해하기](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-redux-%EC%9A%A9%EC%96%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)| `redux`| 홍지훈 |
 | 38 | [redux todo 앱 만들기 1편 state, action, reducer 생성하기](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-redux-todo-%EC%95%B1)| `redux`| 홍지훈 |
-| 38 | [redux todo 앱 만들기 2편 store, 앱 완성](https://velog.io/@qmflf556/redux-todo)| `redux`| 홍지훈 |
+| 39 | [redux todo 앱 만들기 2편 store, 앱 완성](https://velog.io/@qmflf556/redux-todo)| `redux`| 홍지훈 |
 
 # Members
 
