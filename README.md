@@ -82,6 +82,8 @@
 | 38 | [redux todo 앱 만들기 1편 state, action, reducer 생성하기](https://velog.io/@qmflf556/React-%EC%8A%A4%ED%84%B0%EB%94%94-6%EC%A3%BC%EC%B0%A8-redux-todo-%EC%95%B1)| `redux`| 홍지훈 |
 | 39 | [redux todo 앱 만들기 2편 store, 앱 완성](https://velog.io/@qmflf556/redux-todo)| `redux`| 홍지훈 |
 | 40 | [Modal Component 만들기 with redux](https://velog.io/@qmflf556/Redux-Modal-%EB%A7%8C%EB%93%A4%EA%B8%B0)| `redux`| 홍지훈 |
+| 41 | [React - useContext](https://velog.io/@run_lettuce0321/React-useContext)| `useContext` | 주상후 |
+| 42 | [React - 렌더링 최적화](https://velog.io/@run_lettuce0321/React-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94)| `useMemo`, `useCallback` | 주상후 |
 
 # Members
 
