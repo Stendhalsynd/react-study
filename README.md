@@ -87,6 +87,12 @@
 | 43 | [React - redux 를 이용한 todo 앱 만들기](https://velog.io/@run_lettuce0321/React-redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-todo%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)| `redux` | 주상후 |
 | 44 | [React - 필요성 - 코딩애플](https://velog.io/@ckdgusjang/REACT-Redux-1)| `redux` | 장창현 |
 
+## ✒️ 7주차 최종
+
+| num | 블로그 | 주제 | 작성자 |
+| --- | --- | --- | --- |
+| 45 | [recoil todo app](https://velog.io/@qmflf556/Recoil-todo-app)| `recoil` | 홍지훈 |
+
 # Members
 
 | <a href="https://github.com/learnttuce0321"><img src="https://velog.velcdn.com/images/qmflf556/post/10f3d9b1-4a38-4670-8661-991068b300e4/image.png" width="150px"/></a> | <a href="https://github.com/nebulaBdj"><img src="https://velog.velcdn.com/images/qmflf556/post/fd06a32a-ff86-4780-a72f-43c4afdea882/image.png" width="150px"/></a> | <a href="https://github.com/Kimjonghyeon6084"><img src="https://velog.velcdn.com/images/qmflf556/post/547e1f7b-015c-4685-a510-3a03311d11ce/image.png" width="150px"/></a> | <a href="https://github.com/changhyun-jang"><img src="https://velog.velcdn.com/images/qmflf556/post/03e5278a-a2c9-419e-bb7b-6cfb9399cbec/image.png" width="150px"/></a> | <a href="https://github.com/Stendhalsynd"><img src="https://velog.velcdn.com/images/qmflf556/post/19704a5b-0640-4675-b149-abb432c38cd2/image.png" width="150px"/></a> |
